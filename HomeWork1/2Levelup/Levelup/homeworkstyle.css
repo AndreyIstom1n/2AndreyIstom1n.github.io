@@ -68,7 +68,6 @@ img{
     margin:auto;
     background-color: bisque;
     width: 900px;
-    border: 7px double #696969;
 }
 .tabletask caption{
     font-size: 50px;
@@ -95,7 +94,6 @@ form{
     margin-left: 10%;
     padding-bottom: 1%;
     border-bottom: 20%;
-    border: dashed #9370DB;
 }
 input {font-size: medium;}
 option{font-size: medium;}
