@@ -95,7 +95,7 @@ form{
     margin-left: 10%;
     padding-bottom: 1%;
     border-bottom: 20%;
-    border-color: darkkhaki;
+    border: 7px dashed #9370DB
 }
 input {font-size: medium;}
 option{font-size: medium;}
