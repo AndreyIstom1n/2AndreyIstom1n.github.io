@@ -69,6 +69,7 @@ img{
     background-color: bisque;
     width: 900px;
 }
+.tabletask tr:nth-child(even) {background:#F4A460;}
 .tabletask caption{
     font-size: 50px;
     text-align: center;
