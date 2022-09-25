@@ -6,6 +6,7 @@
     margin-left: -10px;
     margin-right: -8px;
     max-width: auto;
+    
 }
 .logo{
     float:left;
@@ -67,8 +68,8 @@ img{
     margin:auto;
     background-color: bisque;
     width: 900px;
+
 }
-.tabletask tr:nth-child(even) {background:#F4A460;}
 .tabletask caption{
     font-size: 50px;
     text-align: center;
@@ -94,6 +95,7 @@ form{
     margin-left: 10%;
     padding-bottom: 1%;
     border-bottom: 20%;
+    border-color: darkkhaki;
 }
 input {font-size: medium;}
 option{font-size: medium;}
@@ -106,4 +108,3 @@ p{
     font-style: italic;
     font-weight: bold;
 }
-
